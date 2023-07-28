@@ -1,0 +1,15 @@
+Design and implement a Web based Learning Management System (LMS) as ASP.Net MVC application.
+Allow Web Applicaion to have Home Page link "Training Topics" to redirect for showing list of topics.
+Web based application will show the List of Topics which are going to be conducted during course execution by trainer.
+Show details of each topic selected from List with following information:
+1. topic
+2. description
+3. faculty
+4. location
+Prepare necessary database table and apply validations wherever required.
+Allow presenter to update existing topic details by clicking 'update' link in details view.
+Apply Bootstrap to all views with proper CSS classes.
+Build solution using n-Tier architecture with the help of class libraries using Data Access Layer,
+Business Layer and MySQL Database.
+Apply proper naming convention and indentation while writing the souece code.
+Demonstrate Application navigation and Visual Studio Solution structure with the help of screenshots captured as images.
